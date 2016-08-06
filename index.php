@@ -20,6 +20,7 @@
 	</div>
 	<div>
 		<p><? echo "Hello GIT!"; ?></p>
+		<p><? echo "My name is Konstantin!"; ?></p>
 	</div>
 </body>
 </html>
