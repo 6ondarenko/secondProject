@@ -5,6 +5,13 @@
 	<title>My second project</title>
 </head>
 <body>
+	<style>
+		body{
+			font-family: Century Gothic;
+			font-size: 12px;
+			color: #282828;
+		}
+	</style>
 	<div>
 		<p>Lorem ipsum dolor sit amet.</p>
 	</div>
