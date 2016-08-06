@@ -18,5 +18,8 @@
 	<div>
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, eum?</p>
 	</div>
+	<div>
+		<p><? echo "Hello GIT!"; ?></p>
+	</div>
 </body>
 </html>
