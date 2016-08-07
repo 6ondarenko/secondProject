@@ -14,6 +14,9 @@
 		}
 	</style>
 	<div>
+		<h1>Hello GITHUB!</h1>
+	</div>
+	<div>
 		<p>Lorem ipsum dolor sit amet.</p>
 	</div>
 	<div>
@@ -21,6 +24,7 @@
 	</div>
 	<div>
 		<p><? echo "Hello GIT!"; ?></p>
+		<p><? echo "My name is Konstantin!"; ?></p>
 	</div>
 </body>
 </html>
